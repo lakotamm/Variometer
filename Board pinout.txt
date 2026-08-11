@@ -1,0 +1,34 @@
+Pressure sensors - I2C:
+GPIO03 - SIO - Interrupt 3 (alt5)
+GPIO04 - SIO - Interrupt 2 (alt5)
+GPIO05 - SIO - Interrupt 1 (alt5)
+GPIO06 - I2C1 SDA (alt3)
+GPIO07 - I2C1 SCL (alt3)
+
+BLE - UART:
+
+GPIO12- UART0 TX (alt2) 
+GPIO13 - UART0 RX (alt2)
+
+GPS - UART: (reserved for future)
+GPIO20 - UART1 TX (alt2)
+GPIO21 - UART1 RX (alt2)
+
+Screen - SPI: (reserved for future)
+GPIO16 - SPI0 RX (alt1)
+GPIO17 - SPI0 CSn (alt1)
+GPIO18 - SPI0 SCK (alt1)
+GPIO19 - SPIO TX (alt1)
+
+Audio PWM: (probably only 1 needed)
+SPIO22 - PWM3 A (alt3) R  
+SPIO23 - PWM3 B (alt3) L
+
+Notes:
+MCU - Raspberry Pi RP2350B (QFN-80) Pinout
+Pins available on headers - GPIO0 - GPIO25, GPIO40_ADC0 - GPIO43_ADC3
+
+Reserved peripherals:
+I2C0 - Barometer
+SPI1 - IMU
+
