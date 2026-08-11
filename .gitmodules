@@ -1,0 +1,3 @@
+[submodule "Pressure_sensor_board"]
+	path = Pressure_sensor_board
+	url = git@github.com:lakotamm/Pressure_sensor_board.git
