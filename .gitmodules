@@ -3,4 +3,4 @@
 	url = git@github.com:lakotamm/Pressure_sensor_board.git
 [submodule "madflight"]
 	path = madflight
-	url = https://github.com/lakotamm/madflight.git
+	url = git@github.com:lakotamm/madflight.git
