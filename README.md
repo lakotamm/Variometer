@@ -1,5 +1,5 @@
 # Variometer
-This is variometer for Hang gliders measuring 3D vector of the wind. 
+This is repo of a variometer for Hang gliders measuring 3D vector of the wind. 
 
 The idea is to use IMU + barometer + a magnetometer to determine orientation and vertical movement of the hang glider, GPS to determine movement against ground and a 5 port pitot tube to measure vector of the air movement. 
 
