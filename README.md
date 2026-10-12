@@ -9,3 +9,17 @@ Miro board:
 
 [https://miro.com/app/board/uXjVEePOPy4=/](https://miro.com/app/board/uXjVEePOPy4=/?share_link_id=711769667885)
 
+
+Bluetooth HC-42 module setup:
+Set baud rate to 115200
+
+"AT+UART=115200"
+
+Increase broadcast interval to 20 ms
+
+"AT+AINT=20"
+
+Disable sleep to improve latency
+
+"AT+PM=0"
+
