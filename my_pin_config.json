@@ -47,21 +47,21 @@
     },
     {
       "pin": "11",
-      "name": "GPIO12"
-    },
-    {
-      "pin": "12",
-      "name": "GPIO13"
-    },
-    {
-      "pin": "13",
-      "name": "GPIO14",
+      "name": "GPIO12",
       "alt": "UART0 TX"
     },
     {
-      "pin": "14",
-      "name": "GPIO15",
+      "pin": "12",
+      "name": "GPIO13",
       "alt": "UART0 RX"
+    },
+    {
+      "pin": "13",
+      "name": "GPIO14"
+    },
+    {
+      "pin": "14",
+      "name": "GPIO15"
     },
     {
       "pin": "15",
@@ -89,13 +89,11 @@
     },
     {
       "pin": "20",
-      "name": "GPIO20",
-      "alt": "UART1 TX"
+      "name": "GPIO20"
     },
     {
       "pin": "21",
-      "name": "GPIO21",
-      "alt": "UART1 RX"
+      "name": "GPIO21"
     },
     {
       "pin": "22",
@@ -113,11 +111,13 @@
     },
     {
       "pin": "25",
-      "name": "GPIO24"
+      "name": "GPIO24",
+      "alt": "UART1 TX"
     },
     {
       "pin": "26",
-      "name": "GPIO25"
+      "name": "GPIO25",
+      "alt": "UART1 RX"
     },
     {
       "pin": "27",
