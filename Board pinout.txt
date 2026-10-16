@@ -7,8 +7,8 @@ GPIO07 - I2C1 SCL (alt3)
 
 BLE - UART:
 
-GPIO12- UART0 TX (alt2) 
-GPIO13 - UART0 RX (alt2)
+GPIO14 - UART0 TX (alt11) 
+GPIO15 - UART0 RX (alt11)
 
 GPS - UART: (reserved for future)
 GPIO20 - UART1 TX (alt2)
