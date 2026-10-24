@@ -4,3 +4,6 @@
 [submodule "madflight"]
 	path = madflight
 	url = git@github.com:lakotamm/madflight.git
+[submodule "Serial to BLE GATT service ESP32-C3"]
+	path = Serial to BLE GATT service ESP32-C3
+	url = git@github.com:lakotamm/Serial-to-BLE-GATT-service-ESP32-C3.git
