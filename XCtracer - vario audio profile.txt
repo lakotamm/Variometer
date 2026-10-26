@@ -1,0 +1,35 @@
+# XC Tracer configuration file
+
+serialNumber=
+firmwareVersion=
+
+# supported Bluetooth protocols are None, XCTRACER, LK8EX1, LXWP0, FlyNet, and BlueFly
+bluetoothProtocol=XCTRACER
+forwardGPSSentences=no
+
+# supported log formats are None, IGC, and KML
+logFormat=
+autoFlightDetection=
+pilotName=
+passengerName=
+gliderType=
+gliderId=
+
+# supported vario tones are None, XCTRACER, and BlueFly
+varioTone=Custom 
+ClimbToneOnThreshold=0.05
+ClimbToneOffThreshold=0
+SinkToneOnThreshold=-0.95
+SinkToneOffThreshold=-1
+tone=-10.0,200,200,100 
+tone=-3.0,293,200,100 
+tone=-1.81,373,200,100 
+tone=-0.94,432,200,100 
+tone=-0.02,496,1189,100
+tone=0.20,519,817,50 
+tone=0.71,556,612,50 
+tone=1.10,587,500,50 
+tone=2.0,675,400,50 
+tone=3.34,798,270,50 
+tone=4.98,921,228,50 
+tone=10.0,1108,200,50

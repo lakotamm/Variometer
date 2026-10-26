@@ -10,8 +10,8 @@ GPIO12 - UART0 TX (alt2)
 GPIO13 - UART0 RX (alt2)
 
 BLE - UART:
-GPIO24 - UART1 TX (alt2) 
-GPIO25 - UART1 RX (alt2)
+GPIO20 - UART1 TX (alt2) 
+GPIO21 - UART1 RX (alt2)
 
 Screen - SPI: (reserved for future)
 GPIO16 - SPI0 RX (alt1)
